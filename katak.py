@@ -318,26 +318,17 @@ def idteman():
 		return menu()
 def menu():
 	cetak('''
-           !h.-.-..
-          /+/++//
-         /+/++//
-  !k*   !k* !h/+/++//
-   \ /  |/__//
- !h{!mX!h}v{!mX!h}!0!b|!cMBF!b|==========.
-   !h(!m'!h)!0  !h/'|'\           !b\\
-       !h/  \  \          !b'
-       !h\_  \_ \_   !k___!mMBF !c2.0!k___
- !m* !bMULTI BRUTEFORCE FACEBOOK
- !m* !cPIRMANSX
- !m* !phttps://github.com/pirmansx
- !m* !phttps://facebook.com/groups/164201767529837
- !m* !phttps://pirmansx.waper.com
+ ____            _ _1.0
+| __ ) _   _  __| / |_ __ ___   __ _ _ __
+|  _ \| | | |/ _` | | '_ ` _ \ / _` | '_ \
+| |_) | |_| | (_| | | | | | | | (_| | | | |
+|____/ \__,_|\__,_|_|_| |_| |_|\__,_|_| |_|
 !k.======================.
 |!h  Take !mID!h from.....  !k|
 '======================'
 !k#!p1 !hlist FRIEND
 !k#!p2 !hID GROUP
-!k#!p3 !bID ON FILE
+!k#!p3 !hnothing action
 !k#!p4 !mQUIT...''')
 	i = inputM('[?] Choose',[1,2,3,4])
 	if i == 2:
